@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d84d156-a015-4c71-8de9-8ecdc5cfc5d6" name="Changes" comment="" />
+    <list default="true" id="c053528a-00ae-41f6-9386-e9ec8422f612" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/calculadora/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/calculadora/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/calculadora/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/calculadora/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +28,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="29fkcWDmiKk3bmewEQzAqkupQ6n" />
+  <component name="ProjectId" id="29flGAHztfE7LH8j0DXzOKBpMo6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -36,29 +41,14 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="ejercicioCalculadora" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="ejercicioCalculadora" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3d84d156-a015-4c71-8de9-8ecdc5cfc5d6" name="Changes" comment="" />
-      <created>1653511608802</created>
+      <changelist id="c053528a-00ae-41f6-9386-e9ec8422f612" name="Changes" comment="" />
+      <created>1653511925214</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1653511608802</updated>
+      <updated>1653511925214</updated>
     </task>
     <servers />
   </component>
